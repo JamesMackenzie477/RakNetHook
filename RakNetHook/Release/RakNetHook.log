@@ -1,0 +1,10 @@
+﻿  Hooks.cpp
+Hooks.cpp(122): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+Hooks.cpp(122): warning C4309: 'initializing': truncation of constant value
+  Generating code
+  0 of 170 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RakNetHook.vcxproj -> D:\Projects\C++\RakNetHook\Release\RakNetHook.dll
+  RakNetHook.vcxproj -> D:\Projects\C++\RakNetHook\Release\RakNetHook.pdb (Full PDB)
